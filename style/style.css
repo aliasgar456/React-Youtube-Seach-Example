@@ -1,0 +1,19 @@
+.search-bar{
+	text-align: center;
+	margin : 20px;
+}
+.search-bar input {
+	width : 70%;
+}
+.video-list-item{
+	cursor: pointer;
+}
+.video-list-item:hover{
+	background-color: #ddd; 
+}
+.video-detail .details{
+	margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
